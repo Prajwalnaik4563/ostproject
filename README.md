@@ -1,0 +1,2 @@
+# ostproject
+simple library
